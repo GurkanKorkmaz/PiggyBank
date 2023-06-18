@@ -1,0 +1,9 @@
+C:\Users\gkorkmaz\source\repos\PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe.config
+C:\Users\gkorkmaz\source\repos\PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe
+C:\Users\gkorkmaz\source\repos\PiggyBank\PiggyBank\bin\Debug\PiggyBank.pdb
+C:\Users\gkorkmaz\source\repos\PiggyBank\PiggyBank\obj\Debug\PiggyBank.csprojAssemblyReference.cache
+C:\Users\gkorkmaz\source\repos\PiggyBank\PiggyBank\obj\Debug\PiggyBank.PiggyBankForm.resources
+C:\Users\gkorkmaz\source\repos\PiggyBank\PiggyBank\obj\Debug\PiggyBank.Properties.Resources.resources
+C:\Users\gkorkmaz\source\repos\PiggyBank\PiggyBank\obj\Debug\PiggyBank.csproj.GenerateResource.cache
+C:\Users\gkorkmaz\source\repos\PiggyBank\PiggyBank\obj\Debug\PiggyBank.exe
+C:\Users\gkorkmaz\source\repos\PiggyBank\PiggyBank\obj\Debug\PiggyBank.pdb
